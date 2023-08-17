@@ -64,4 +64,8 @@ Drawing Gestures is a Unity template that provides on-screen drawing functionali
 
 ## Preview:
 
-https://github.com/UrbanskiJuliusz/DrawingGestures/assets/52629898/c4bbba18-98aa-4d12-be14-661b359b8b26
+
+https://github.com/UrbanskiJuliusz/DrawingGestures/assets/52629898/51a8c2db-0753-4634-a2b7-715c0731aca2
+
+
+
